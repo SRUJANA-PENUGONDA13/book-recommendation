@@ -1,0 +1,50 @@
+
+
+body {
+    font-family: "Poppins",sans-serif;
+    background-color: #efefef;
+}
+.container
+{
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+}
+button
+{
+    padding: 0.5rem;
+    border-radius: 8px;
+    height: 32px;
+    width: 90px;
+    margin: 10px;
+}
+p
+{
+    font-size: smaller;
+}
+ul
+{
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+li
+{
+    list-style: none;
+    padding: 1rem;
+    border: 1px solid rgb(209, 213, 219);
+    width: 70%;
+    margin: 1rem 0rem;
+    border-radius: 0.5rem;
+}
+.genre-content
+{
+    text-align: left;
+}
+#book
+{
+    font-size: larger;
+}
+#rating
+{
+    font-size: smaller;
+}
